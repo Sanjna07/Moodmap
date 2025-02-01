@@ -1,3 +1,4 @@
-Microsoft Hackathon ka project
-to run it
-just "npm run dev" in the terminal
+Microsoft Hackathon project
+first, npm install
+then, npm run dev
+
